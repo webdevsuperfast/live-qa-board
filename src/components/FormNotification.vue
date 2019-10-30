@@ -37,6 +37,8 @@
              return 'fa-check'
           case 'error':
             return 'fa-exclamation'
+          default:
+            return 'fa-check'
         }
       }
     },
